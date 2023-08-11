@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://coderstats.net/github/#Dentrax">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanbalaRashidov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fidannjf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fidannjf&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
   </a>
 </p> </br></br>
@@ -25,7 +25,6 @@
 
 - ##  Programming Language &nbsp;
   ![C#](https://img.icons8.com/color/2x/c-sharp-logo-2.png)
-  ![Java](https://img.icons8.com/color/2x/java-plus-logo.png)
   ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
   ![TypeScript](https://img.icons8.com/fluency/2x/typescript--v2.png)
 -  ## 🌐 Web Technology &nbsp;
